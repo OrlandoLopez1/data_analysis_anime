@@ -95,7 +95,7 @@ class MainWindow(QWidget):
         querystring = {"q": search, "page": "1"}
 
         headers = {
-            "X-RapidAPI-Key": "925217a2afmsh04c5941fd31d622p1a2d40jsn5e7f430fc215",
+            "X-RapidAPI-Key": "Enter API Key here",
             "X-RapidAPI-Host": "jikan1.p.rapidapi.com"
         }
 
@@ -170,7 +170,7 @@ class MainWindow(QWidget):
         querystring = {"q": search, "page": "1"}
 
         headers = {
-            "X-RapidAPI-Key": "925217a2afmsh04c5941fd31d622p1a2d40jsn5e7f430fc215",
+            "X-RapidAPI-Key": "Enter API Key here",
             "X-RapidAPI-Host": "jikan1.p.rapidapi.com"
         }
 
